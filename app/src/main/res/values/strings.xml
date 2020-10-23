@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Intents3</string>
+    <string name="btnAeptar">aceptar</string>
+    <string name="btnRegresar">regresar</string>
+    <string name="btnLlamar">llamar</string>
+    <string name="btnWhats">WhatsApp</string>
+
+</resources>
